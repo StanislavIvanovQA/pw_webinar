@@ -1,0 +1,2 @@
+Test 'test book title: Learning JavaScript Design Patterns' started
+Test 'test book title: Learning JavaScript Design Patterns' ended

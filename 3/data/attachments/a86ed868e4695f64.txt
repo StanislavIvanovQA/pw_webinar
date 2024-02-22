@@ -1,0 +1,3 @@
+Test 'test book title: Understanding ECMAScript 6' started
+Test 'test book title: Understanding ECMAScript 6' ended
+This works AFTER ALL tests
